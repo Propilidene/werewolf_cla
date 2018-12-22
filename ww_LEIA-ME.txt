@@ -1,0 +1,14 @@
+Modo de usar:
+	
+Pré-Execução:
+	Cadastre os membros do seu clã em 3 categorias (Doadores ativos, Membros e Membros Ativos).
+	Para cadastrar, apenas abra o arquivo digite o nome do jogador e dê enter. (1 Nome por linha).
+
+Execução:
+	Abra o arquivo ww_cla.exe.
+	Digite as informações necessárias para a geração do relatório da missão pro seu clã.
+Relatório:
+	O Relatório será gerado no diretório: diretorio_do_programa/Relatorios/Missao_X. Na forma de um arquivo relatorio.txt.
+
+
+Créditos: Lucas Rodrigues de Almeida (Propilideno).
